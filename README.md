@@ -5,14 +5,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gowtham12234/leetcode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gowtham12234/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Gowtham12234/leetcode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gowtham12234/leetcode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gowtham12234/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Gowtham12234/leetcode/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gowtham12234/leetcode/tree/master/0009-palindrome-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gowtham12234/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gowtham12234/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
