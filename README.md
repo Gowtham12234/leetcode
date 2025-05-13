@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gowtham12234/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Gowtham12234/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gowtham12234/leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gowtham12234/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gowtham12234/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -37,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gowtham12234/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gowtham12234/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
