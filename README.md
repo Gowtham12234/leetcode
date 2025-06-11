@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gowtham12234/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Gowtham12234/leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Gowtham12234/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham12234/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gowtham12234/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gowtham12234/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
 ## Stack
