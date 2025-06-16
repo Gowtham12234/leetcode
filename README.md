@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Gowtham12234/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
