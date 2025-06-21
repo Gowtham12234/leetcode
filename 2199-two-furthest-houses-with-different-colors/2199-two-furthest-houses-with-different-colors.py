@@ -5,7 +5,7 @@ class Solution:
         for i in range(n):
             for j in range(i+1,n):
                 if colors[i]!=colors[j]:
-                    diff1=abs(j-i)
+                    diff1=j-i
                     diff=max(diff,diff1)
         return diff
         
