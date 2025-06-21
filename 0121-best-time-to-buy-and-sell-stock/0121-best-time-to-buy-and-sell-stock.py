@@ -1,9 +1,5 @@
-class Solution(object):
-    def maxProfit(self, prices):
-        """
-        :type prices: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
         left=0
         right=0
         maxprofit=0
@@ -14,5 +10,8 @@ class Solution(object):
             else:
                 left=right
             right+=1
+                
         return maxprofit
+
+        
         
