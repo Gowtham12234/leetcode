@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham12234/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham12234/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Gowtham12234/leetcode/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/Gowtham12234/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Gowtham12234/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Gowtham12234/leetcode/tree/master/0792-binary-search) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Gowtham12234/leetcode/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
