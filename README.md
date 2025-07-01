@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gowtham12234/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham12234/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Gowtham12234/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Gowtham12234/leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Gowtham12234/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Gowtham12234/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gowtham12234/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gowtham12234/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gowtham12234/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Gowtham12234/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gowtham12234/leetcode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
