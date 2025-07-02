@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gowtham12234/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gowtham12234/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Gowtham12234/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Gowtham12234/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Gowtham12234/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham12234/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gowtham12234/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Gowtham12234/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Gowtham12234/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Gowtham12234/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gowtham12234/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gowtham12234/leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Gowtham12234/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
