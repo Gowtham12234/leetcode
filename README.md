@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Gowtham12234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Gowtham12234/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Gowtham12234/leetcode/tree/master/0792-binary-search) |
+| [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Gowtham12234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Gowtham12234/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham12234/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gowtham12234/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Gowtham12234/leetcode/tree/master/0414-third-maximum-number) |
+| [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -144,8 +146,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gowtham12234/leetcode/tree/master/0169-majority-element) |
+| [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gowtham12234/leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
