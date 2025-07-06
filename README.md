@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Gowtham12234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Gowtham12234/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Gowtham12234/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Gowtham12234/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Gowtham12234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Gowtham12234/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gowtham12234/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham12234/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Gowtham12234/leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Gowtham12234/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Gowtham12234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
