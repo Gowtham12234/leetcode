@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham12234/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gowtham12234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Gowtham12234/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Gowtham12234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gowtham12234/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gowtham12234/leetcode/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gowtham12234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Gowtham12234/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Gowtham12234/leetcode/tree/master/0782-jewels-and-stones) |
 ## Stack
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gowtham12234/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Gowtham12234/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gowtham12234/leetcode/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gowtham12234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Gowtham12234/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Gowtham12234/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowtham12234/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
