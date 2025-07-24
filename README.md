@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Gowtham12234/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Gowtham12234/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Gowtham12234/leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Gowtham12234/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Gowtham12234/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Gowtham12234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Gowtham12234/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Gowtham12234/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Gowtham12234/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Gowtham12234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gowtham12234/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Gowtham12234/leetcode/tree/master/0735-asteroid-collision) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gowtham12234/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Gowtham12234/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gowtham12234/leetcode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Gowtham12234/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gowtham12234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Gowtham12234/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Gowtham12234/leetcode/tree/master/1205-defanging-an-ip-address) |
