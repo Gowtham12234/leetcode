@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Gowtham12234/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Gowtham12234/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Gowtham12234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gowtham12234/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gowtham12234/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gowtham12234/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gowtham12234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Gowtham12234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gowtham12234/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Gowtham12234/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gowtham12234/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Gowtham12234/leetcode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 ## String
@@ -206,15 +209,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Gowtham12234/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gowtham12234/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gowtham12234/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -224,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -257,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
