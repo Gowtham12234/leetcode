@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Gowtham12234/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Gowtham12234/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gowtham12234/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1285-balance-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Gowtham12234/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gowtham12234/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1285-balance-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Gowtham12234/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gowtham12234/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1285-balance-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -309,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
