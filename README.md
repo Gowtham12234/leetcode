@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Gowtham12234/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Gowtham12234/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/Gowtham12234/leetcode/tree/master/1127-last-stone-weight) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Gowtham12234/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Gowtham12234/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Gowtham12234/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gowtham12234/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gowtham12234/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Gowtham12234/leetcode/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/Gowtham12234/leetcode/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
