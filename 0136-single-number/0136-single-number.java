@@ -1,13 +1,13 @@
 class Solution {
+    
     public int singleNumber(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int num:nums){
-            map.put(num,map.getOrDefault(num,0)+1);
+        HashMap<Integer,Integer> hmap=new HashMap<>();
+        for(int num :nums){
+            hmap.put(num,hmap.getOrDefault(num,0)+1);
         }
-        for(int num:map.keySet()){
-            int n=num;
-            if(map.get(n)==1){
-                return n;
+        for(int num:hmap.keySet()){
+            if(hmap.get(num)==1){
+                return num;
             }
         }
         return -1;
