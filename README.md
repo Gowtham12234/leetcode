@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gowtham12234/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gowtham12234/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Gowtham12234/leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Gowtham12234/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Gowtham12234/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Gowtham12234/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gowtham12234/leetcode/tree/master/0075-sort-colors) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Gowtham12234/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Gowtham12234/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham12234/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gowtham12234/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Gowtham12234/leetcode/tree/master/0055-jump-game) |
 | [1285-balance-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Gowtham12234/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Two Pointers
