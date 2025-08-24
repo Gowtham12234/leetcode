@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Gowtham12234/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Gowtham12234/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowtham12234/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Gowtham12234/leetcode/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gowtham12234/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Gowtham12234/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gowtham12234/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Gowtham12234/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gowtham12234/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Gowtham12234/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Gowtham12234/leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gowtham12234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Gowtham12234/leetcode/tree/master/0782-jewels-and-stones) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gowtham12234/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Gowtham12234/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gowtham12234/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Gowtham12234/leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Gowtham12234/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
