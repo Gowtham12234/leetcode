@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Gowtham12234/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Gowtham12234/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Gowtham12234/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Gowtham12234/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Gowtham12234/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowtham12234/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Gowtham12234/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Gowtham12234/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Gowtham12234/leetcode/tree/master/0735-asteroid-collision) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Gowtham12234/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1929-concatenation-of-array](https://github.com/Gowtham12234/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Gowtham12234/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gowtham12234/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
