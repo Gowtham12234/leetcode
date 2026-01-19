@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Gowtham12234/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gowtham12234/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Gowtham12234/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Gowtham12234/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gowtham12234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gowtham12234/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Gowtham12234/leetcode/tree/master/0735-asteroid-collision) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Gowtham12234/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Gowtham12234/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Gowtham12234/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Gowtham12234/leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gowtham12234/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Gowtham12234/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Gowtham12234/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gowtham12234/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gowtham12234/leetcode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Gowtham12234/leetcode/tree/master/0402-remove-k-digits) |
 | [1285-balance-a-binary-search-tree](https://github.com/Gowtham12234/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Gowtham12234/leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Two Pointers
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gowtham12234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gowtham12234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Gowtham12234/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gowtham12234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gowtham12234/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gowtham12234/leetcode/tree/master/0739-daily-temperatures) |
