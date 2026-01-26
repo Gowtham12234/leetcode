@@ -15,20 +15,22 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return checkheight(root) !=-1;
+        return dfsheight(root)!=-1;
     }
-    public int checkheight(TreeNode node){
-        if(node==null) {
-            return 0;
+    public int dfsheight(TreeNode root){
+        if(root==null) return 0;
+        int leftheight=dfsheight(root.left);
+        if(leftheight==-1){
+            return -1;
+
         }
-        int left=checkheight(node.left);
-        if(left==-1) return -1;
-
-        int right=checkheight(node.right);
-        if(right==-1) return -1;
-
-        if(Math.abs(left-right)>1) return -1;
-
-        return Math.max(left,right)+1;
+        int rightheight=dfsheight(root.right);
+        if(rightheight==-1){
+            return -1;
+        }
+        if(Math.abs(leftheight-rightheight)>1){
+            return -1;
+        }
+        return Math.max(leftheight,rightheight)+1;
     }
 }
